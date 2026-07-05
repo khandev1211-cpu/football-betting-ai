@@ -1,0 +1,12 @@
+first command to python start 
+cd backend
+pip install -r requirements.txt
+cd src
+python main.py
+
+
+now in scond terminal 
+first we have to command 
+cd frontend
+npm install
+npm run dev
